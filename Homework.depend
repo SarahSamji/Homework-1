@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1475812737 source:c:\users\sarah\documents\homework\main.cpp
+	<iostream>
+	<thread>
+
+1475806030 source:c:\users\sarah\documents\homework\threadlocal_test.cpp
+	<iostream>
+	<pthread.h>
+	<thread>
+	"threadLocal.h"
+
+1475806930 c:\users\sarah\documents\homework\threadlocal.h
+	<iostream>
+	<thread>
+	<iterator>
+	<mutex>
+	<unordered_map>
+
